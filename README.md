@@ -36,3 +36,5 @@ This project is deployed on **Netlify** and the source code is hosted on **GitHu
 
 ---
 *Developed by Lomash Srivastava*
+
+Designed And Developed By Lomash Srivastava
